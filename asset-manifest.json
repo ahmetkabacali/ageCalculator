@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ageCalculator/static/css/main.5df8061d.css",
-    "main.js": "/ageCalculator/static/js/main.ed352d82.js",
+    "main.js": "/ageCalculator/static/js/main.809ec1a8.js",
     "static/media/Poppins-Italic.ttf": "/ageCalculator/static/media/Poppins-Italic.e373f6163127e2d469af.ttf",
     "static/media/Poppins-BoldItalic.ttf": "/ageCalculator/static/media/Poppins-BoldItalic.cfb635a5111b545f5598.ttf",
     "static/media/Poppins-ExtraBoldItalic.ttf": "/ageCalculator/static/media/Poppins-ExtraBoldItalic.73d4495be63ad83b25cc.ttf",
@@ -11,10 +11,10 @@
     "index.html": "/ageCalculator/index.html",
     "static/media/icon-arrow.svg": "/ageCalculator/static/media/icon-arrow.b76bba59d970fdfe4350cb5994993276.svg",
     "main.5df8061d.css.map": "/ageCalculator/static/css/main.5df8061d.css.map",
-    "main.ed352d82.js.map": "/ageCalculator/static/js/main.ed352d82.js.map"
+    "main.809ec1a8.js.map": "/ageCalculator/static/js/main.809ec1a8.js.map"
   },
   "entrypoints": [
     "static/css/main.5df8061d.css",
-    "static/js/main.ed352d82.js"
+    "static/js/main.809ec1a8.js"
   ]
 }
